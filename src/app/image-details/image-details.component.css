@@ -1,0 +1,18 @@
+.imgContainer{
+  margin: 5% 10% 5% 10%;
+  height: 80%;
+  width: 80%;
+  border-radius: 2%;
+  border: 5px groove;
+  box-shadow: 10% 20% 10% #888888;
+}
+
+.caption{
+  margin: 1% 80% 80% 40%;
+  font-family: "Lato" sans-serif;
+  font-size: 1.2em;
+  border: 2px ridge;
+  padding: 1.5%;
+  background-color: #fff;
+  border-radius: 8%;
+}

@@ -1,0 +1,15 @@
+#thumbnails{
+   margin: 10px auto;
+   padding: 20px;
+}
+li{
+  display: inline-block;
+}
+
+.tn{
+  margin: 5px ;
+  border: 5px ridge;
+  border-radius: 5px;
+  width: 200px;
+  height: 150px;
+}
